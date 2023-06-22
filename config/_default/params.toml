@@ -21,13 +21,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Vibhor Aggarwal"
+description = "Akshay Chaturvedi"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "vibhor_a"
+#twitter = "vibhor_a"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -67,7 +67,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "vibhorag24@gmail.com"
+email = "akshay.chaturvedi@cri-paris.org"
 phone = ""
 address = ""
 

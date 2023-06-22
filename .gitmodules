@@ -1,11 +1,11 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
-[submodule "vibhoraggarwal.github.io"]
-	path = vibhoraggarwal.github.io
-	url = https://github.com/vibhoraggarwal/vibhoraggarwal.github.io.git
-	branch = master
+[submodule "akshay-vedi.github.io"]
+	path = akshay-vedi.github.io
+	url = https://github.com/akshay-vedi/akshay-vedi.github.io.git
+	branch = main
 [submodule "public"]
 	path = public
-	url = https://github.com/vibhoraggarwal/vibhoraggarwal.github.io.git
-	branch = master
+	url = https://github.com/akshay-vedi/akshay-vedi.github.io.git
+	branch = main

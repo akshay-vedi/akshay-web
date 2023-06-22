@@ -18,40 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
-
-[[item]]
-  organization = "IIT Kanpur"
-  organization_url = "https://www.iitk.ac.in"
-  title = "Best Under-Graduate project in Mechanical Engineering department of IIT Kanpur in 2017"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-04-01"
-  date_end = "2017-06-15"
-  description = ""
-  
-[[item]]
-  organization = "IIT Kanpur"
-  organization_url = "https://www.iitk.ac.in"
-  title = "Ranjan Kumar Memorial Award for the best socially relevant project at IIT Kanpur in 2017"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-04-01"
-  date_end = "2017-06-15"
-  description = ""
-
-
-[[item]]
-  organization = "IIT Kharagpur"
-  organization_url = "https://www.iitkgp.ac.in"
-  title = "Ranked 3rd in state and 914 nationally among 1.4 million students in JEE 2013"
-  url = ""
-  certificate_url = ""
-  date_start = "2011-04-01"
-  date_end = "2013-06-22"
-  description = ""  
-    
-
      
 #[[item]]
 # organization = "DataCamp"
